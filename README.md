@@ -1,6 +1,5 @@
 # 👋 Bonjour, je suis Mamadou Sidibé
 
-<img align="right" src="https://github.com/the-guild-org/shared/raw/main/assets/code.gif" width="300" alt="Animation de code">
 
 Développeur passionné, je conçois et développe des solutions web et logicielles. Actuellement, je me consacre à l'apprentissage et à la réalisation de projets innovants.
 
