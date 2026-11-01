@@ -1,7 +1,7 @@
 <div align="center">
 
-<h1>Mamadou Sidibé</h1>
-<h3>Software Developer & AI Enthusiast</h3>
+<h1>Mamadou&lt;/&gt;dev</h1>
+<h3>Mamadou Sidibé · Software Developer & AI Enthusiast</h3>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=3000&pause=1000&color=19A7FF&center=true&vCenter=true&width=420&lines=D%C3%A9veloppeur+logiciel+%26+passionn%C3%A9+d%27IA;Fondateur+de+KoomaAI;Du+Mali+vers+le+monde" alt="Développeur logiciel & passionné d'IA" />
 
